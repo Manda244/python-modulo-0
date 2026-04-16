@@ -13,5 +13,4 @@
 
 def ft_garden_name():
     garden_name = input("Enter garden name: ")
-    garden_status = input("Enter garden status: ")
-    print(f"Garden: {garden_name}\nStatus: {garden_status}")
+    print(f"Garden: {garden_name}\nStatus: Growing well!")
